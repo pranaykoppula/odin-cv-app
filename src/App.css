@@ -1,0 +1,16 @@
+/* src/App.css */
+.app {
+  display: flex;
+}
+
+.editor-pane {
+  width: 50%;
+  padding: 20px;
+}
+
+.preview-pane {
+  width: 50%;
+  padding: 20px;
+}
+
+/* Add more styling as needed */
